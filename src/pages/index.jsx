@@ -43,9 +43,9 @@ const Index = () => {
                                 <span className="text-sm  ml-2">Bello, Antioquia</span>
                             </div>
                         </li>
-                        <br/>
-                        <br/>
-                        <br/>
+                        <br />
+                        <br />
+                        <br />
                         <li className="justify-between text-gray-300 mb-6">
                             <div className="flex items-center underline">
                                 <span className="text-lg  ml-2 font-bold">HABILIDADES</span>
@@ -133,6 +133,17 @@ const Index = () => {
                             <div className="flex flex-col ">
                                 <span className="text-2xl font-bold">Ingeniería de Sistemas | Universidad de Antioquia</span>
                                 <span className="text-xl">Agosto de 2017 - Actualmente</span>
+                            </div>
+                        </li>
+                        <li className="flex w-full justify-around text-gray-500 mb-6">
+                            <div className="flex items-center underline">
+                                <span className="text-3xl  font-bold">Hobbies</span>
+                            </div>
+                        </li>
+                        <li className="flex w-full justify-around text-gray-500 mb-6">
+                            <div className="flex flex-col items-center">
+                                <p className='p-6 text-xl text-justify'>Me gusta mucho la música, me gusta tocar el ukulele, me gusta aprender bastante sobre programación
+                                me gusta ver series y películas, suelo ir al cine</p>
                             </div>
                         </li>
                     </ul>
